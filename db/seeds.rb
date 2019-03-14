@@ -13,3 +13,5 @@ Ingredient.create(name: "mint leaves")
 Ingredient.create(name: "ginger")
 Ingredient.create(name: "cocaine")
 Ingredient.create(name: "tonic")
+
+# Faire un seed avec l'api

@@ -18,3 +18,8 @@
 console.log('Hello World from Webpacker')
 
 import 'bootstrap';
+
+
+// C'est ici que je tape mon JS pour mon front
+// Je peux aussi le faire dans un autre fichier et importer ici
+// Mais best practice est de faire un seul fichier
